@@ -18,7 +18,7 @@
                           <div class="contact-info-one__icon"><i class="kipso-icon-placeholder"></i>
                               <!-- /.kipso-icon-manager -->
                           </div><!-- /.contact-info-one__icon -->
-                          <h2 class="contact-info-one__title">Ou Address</h2><!-- /.contact-info-one__title -->
+                          <h2 class="contact-info-one__title">Our Address</h2><!-- /.contact-info-one__title -->
                           <p class="contact-info-one__text">5423 Heavens Dr, <br>
                               Heavens Ohio 43001, United States of <br> America</p><!-- /.contact-info-one__text -->
                       </div><!-- /.contact-info-one__single -->
